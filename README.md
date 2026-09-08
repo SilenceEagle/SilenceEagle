@@ -1,5 +1,6 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SilenceEagle&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
+<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SilenceEagle&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true) -->
+![GitHub Stats Card](./profile/stats.svg)
 <!--
 **SilenceEagle/SilenceEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
